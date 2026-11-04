@@ -1,28 +1,19 @@
-::: {align="center"}
-# 👋 Merhaba, ben Zeklass!
+<div align="center">👋 Merhaba, ben Zeklass!
+Java geliştiricisi
 
-### 💻 Yazılım geliştirici
+Java ile yazılım geliştirmeyle ilgileniyorum ve kendimi geliştirmeye devam ediyorum.
 
-Web teknolojileri ve yazılım geliştirme ile ilgileniyorum.
-
-[![GitHub](https://img.shields.io/badge/GitHub-zeklass34-181717?style=for-the-badge&logo=github)](https://github.com/zeklass34)
-:::🚀 Hakkımda
-
-- 🤝 Yeni projelere ve iş birliklerine açığım.
-🛠️ Teknolojiler
+</div>🚀 Hakkımda
+- 🤝 Yazılım projeleri ve iş birlikleriyle ilgileniyorum.
+🛠️ Bildiğim Teknoloji
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode" alt="Kullandığım teknolojiler" />{=html}
-</p>
-📊 GitHub İstatistiklerim
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=zeklass34&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub istatistikleri" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeklass34&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="En çok kullandığım diller" />`{=html}
-:::🔥 Katkı Grafiğim
-::: {align="center"}
-[![GitHub
-Streak](https://streak-stats.demolab.com?user=zeklass34&theme=tokyonight&hide_border=true&locale=tr)](https://git.io/streak-stats)
-:::🌐 Bana Ulaş
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+</p>📊 GitHub İstatistiklerim
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=zeklass34&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub istatistikleri" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeklass34&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="En çok kullandığım diller" /></div>🔥 Katkı Grafiğim
+<div align="center"><img src="https://streak-stats.demolab.com?user=zeklass34&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub katkı serisi" /></div>🌐 Bana Ulaş
 - GitHub: @zeklass34
+<div align="center"><img src="https://komarev.com/ghpvc/?username=zeklass34&style=flat-square&color=blueviolet&label=Profil%20ziyareti" alt="Profil ziyaret sayacı" /></div>
 - Discord:zeklass_
 ::: {align="center"}
 ![Ziyaretçi
